@@ -1,0 +1,8 @@
+*
+!*/
+!.gitignore
+!**.cpp
+!**.c
+!**.h
+!**.vert
+!**.frag
